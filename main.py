@@ -19,7 +19,7 @@ API = 'https://downloader.bot/api/download?vid='
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # TikTok Video URL Types , You Can Add More to This :)
-TikTok_Link_Types= ['https://m.tiktok.com','https://vt.tiktok.com','https://tiktok.com','https://www.tiktok.com']
+TikTok_Link_Types= ['https://m.tiktok.com','https://vt.tiktok.com','https://tiktok.com','https://www.tiktok.com','https://vm.tiktok.com,]
 
 # ParseMode Type For All Messages
 _ParseMode=ParseMode.MARKDOWN
